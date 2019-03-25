@@ -1,6 +1,6 @@
 # Project 2 - *SimpleTweet-Part1*
 
-**NSimpleTweet-Part1** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
+**SimpleTweet-Part1** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
 Time spent: **X** hours spent in total
 
